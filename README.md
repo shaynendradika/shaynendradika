@@ -1,4 +1,7 @@
-### Punten slurrr 👋
+<p align="center">
+  <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/shaynendradika/shaynendradika/main/logo.png"/>
+</p>
+
 
 <!--
 **shaynendradika/shaynendradika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
