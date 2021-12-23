@@ -20,7 +20,6 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="python"/></a>
 </div>
 
----
 
 <h3 align="center">Connect with Me</h3>
 <p align="center">
