@@ -17,6 +17,7 @@
  <div align="center">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/tailwind-252a2f.svg?style=for-the-badge&logo=tailwindcss&logoColor=39b2af"alt="tailwind"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"alt="bootstrap"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="python"/></a>
 </div>
