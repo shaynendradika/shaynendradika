@@ -13,6 +13,7 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Vue-41b883.svg?style=for-the-badge&logo=vue.js&logoColor=black" alt="vue"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/></a>
  </div>
  <div align="center">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/></a>
