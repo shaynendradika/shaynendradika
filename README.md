@@ -5,7 +5,7 @@
 
 ---
 
-<h3 align="center">Frontend & Backend</h3>
+<h3 align="center">Tech Stack</h3>
 <div align="center">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/PHP-474A8A.svg?style=for-the-badge&logo=php&logoColor=white" alt="php"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Laravel-F05340.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel"/></a>
